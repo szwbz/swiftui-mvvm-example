@@ -14,4 +14,6 @@ Key benefits of MVVM include improved separation of concerns, better testability
 
 ## Official Learning Resources
 
-For foundational SwiftUI knowledge, see: [SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui) - Apple's official SwiftUI tutorials provide step-by-step guidance for building iOS, iPadOS, and macOS apps with declarative syntax and modern Swift conventions.
+For foundational SwiftUI knowledge, see: [SwiftUI Tutorials - Apple Developer](https://developer.apple.com/tutorials/swiftui)
+
+Apple's official SwiftUI tutorials provide comprehensive, step-by-step guidance for building iOS, iPadOS, and macOS apps using SwiftUI's declarative syntax. The tutorials cover everything from basic UI components to advanced topics like data flow, animation, and accessibility. They're designed to help developers quickly learn how to create beautiful, responsive interfaces that work across Apple platforms.
